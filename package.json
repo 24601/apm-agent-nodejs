@@ -117,7 +117,7 @@
     "@koa/router": "^8.0.2",
     "@types/node": "^12.12.11",
     "apollo-server-express": "^2.9.9",
-    "aws-sdk": "^2.575.0",
+    "aws-sdk": "^2.614.0",
     "backport": "^4.8.0",
     "benchmark": "^2.1.4",
     "bluebird": "^3.7.1",
