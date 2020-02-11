@@ -166,7 +166,7 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "restify": "^8.4.0",
-    "restify-clients": "^2.6.7",
+    "restify-clients": "^2.6.9",
     "rimraf": "^3.0.0",
     "send": "^0.17.1",
     "standard": "^14.3.1",
